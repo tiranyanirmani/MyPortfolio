@@ -1,7 +1,6 @@
 # Myportfolio_website
-<h1>Screenshot of My Portfolio</h1>
 <img src="TN.jpg" width= 50px height= 50px>
-
+<h1>Screenshot of My Portfolio</h1>
 <img src="1.png" width= 1520px height= 520px>
 </br>
 <hr>
